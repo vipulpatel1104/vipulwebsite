@@ -62,7 +62,7 @@ body
 @keyframes mover
 {
     0%{transform: translateY();}
-    100%{transform: translateY(10px);}
+    100%{transform: translateY(50px);}
 }
 /*-------about-----------------------------------------*/
 .about
